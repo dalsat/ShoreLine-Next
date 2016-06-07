@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Report-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"report" ],
+	"name" : "SlReportBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

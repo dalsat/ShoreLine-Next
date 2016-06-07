@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Report-Core-API",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ShoreLineAPI",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

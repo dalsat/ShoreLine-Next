@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Report-Storage",
+	"classinstvars" : [
+		"Instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reports" ],
+	"name" : "SlLocalStore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

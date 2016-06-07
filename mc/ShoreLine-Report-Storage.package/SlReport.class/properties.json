@@ -1,0 +1,18 @@
+{
+	"category" : "ShoreLine-Report-Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"date",
+		"summary",
+		"description",
+		"state",
+		"payloads" ],
+	"name" : "SlReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "ShoreLine-Report-Core-Collectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"version",
+		"update" ],
+	"name" : "SlVersionCollector",
+	"pools" : [
+		 ],
+	"super" : "SlCollector",
+	"type" : "normal" }
