@@ -1,6 +1,6 @@
 instance creation
 default
-
-	^ self basicNew initialize
-		path: self defaultPath;
-		yourself
+	| tmp2 |
+	tmp2 := self basicNew initialize.
+	tmp2 path: self defaultPath.
+	^ tmp2 yourself

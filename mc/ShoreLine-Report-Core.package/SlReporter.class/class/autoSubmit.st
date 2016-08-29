@@ -1,4 +1,5 @@
 settings
 autoSubmit
-
-	^ autoSubmit ifNil: [ autoSubmit := false ]
+	| tmp2 |
+	tmp2 := autoSubmit.
+	^ tmp2 ifNil: [ autoSubmit := false ] ifNotNil: [ tmp2 ]

@@ -1,0 +1,4 @@
+accessing
+tag
+
+	^ #string

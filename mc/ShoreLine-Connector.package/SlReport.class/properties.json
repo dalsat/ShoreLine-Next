@@ -1,0 +1,22 @@
+{
+	"category" : "ShoreLine-Connector-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"author",
+		"date",
+		"dateClosed",
+		"opened",
+		"status",
+		"summary",
+		"events",
+		"links" ],
+	"name" : "SlReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

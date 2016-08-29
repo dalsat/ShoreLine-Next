@@ -1,4 +1,3 @@
 settings
-showSummary: aBoolean
-
-	showSummary := aBoolean
+showSummary: arg1
+	showSummary := arg1

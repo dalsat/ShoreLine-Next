@@ -1,4 +1,3 @@
 settings
-autoSubmit: aBoolean
-
-	autoSubmit := aBoolean
+autoSubmit: arg1
+	autoSubmit := arg1

@@ -1,4 +1,3 @@
 notification
-notifySuccess: aString
-
+notifySuccess: arg1
 	self inform: 'Report sent'

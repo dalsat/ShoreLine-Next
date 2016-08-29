@@ -1,5 +1,6 @@
 actions
 submit
 
-	self reporter serializeAndSend: report.
-	self updateSettings.
+	self updateSelection.
+	self reporter submit.
+	self close

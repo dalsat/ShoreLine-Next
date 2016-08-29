@@ -1,0 +1,20 @@
+{
+	"category" : "ShoreLine-Client-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list",
+		"details",
+		"goButton",
+		"refreshButton",
+		"cleanButton",
+		"filter",
+		"cache" ],
+	"name" : "ShoreLineBrowser",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

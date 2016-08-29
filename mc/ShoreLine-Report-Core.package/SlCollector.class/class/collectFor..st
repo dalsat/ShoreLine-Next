@@ -1,4 +1,4 @@
 as yet unclassified
 collectFor: aDebugger
 
-	^ (self collectors collect: [ :e | e tag -> (e extractFrom: aDebugger) ]) asDictionary
+	^ ((self collectorsFor: aDebugger) collect: [ :e | e tag -> (e extractFrom: aDebugger) ]) asDictionary

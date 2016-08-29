@@ -2,12 +2,13 @@
 	"class" : {
 		"beDisabled" : "TommasoDalSasso 4/8/2016 14:48",
 		"beEnabled" : "TommasoDalSasso 4/8/2016 14:48",
-		"collectFor:" : "TommasoDalSasso 4/12/2016 18:24",
-		"collectors" : "TommasoDalSasso 4/11/2016 14:51",
+		"collectFor:" : "TommasoDalSasso 8/24/2016 00:25",
+		"collectorsFor:" : "TommasoDalSasso 8/24/2016 00:14",
 		"description" : "TommasoDalSasso 4/8/2016 14:49",
 		"enabled" : "TommasoDalSasso 4/8/2016 14:52",
 		"extractFrom:" : "TommasoDalSasso 4/18/2016 14:41",
-		"tag" : "TommasoDalSasso 4/11/2016 14:49" },
+		"tag" : "TommasoDalSasso 4/11/2016 14:49",
+		"when:" : "TommasoDalSasso 8/24/2016 00:14" },
 	"instance" : {
 		"extractFrom:" : "TommasoDalSasso 4/9/2016 15:50",
 		"initializeWith:" : "TommasoDalSasso 4/18/2016 14:41",

@@ -1,4 +1,3 @@
 settings
-host: aString
-
-	host := aString
+host: arg1
+	host := arg1

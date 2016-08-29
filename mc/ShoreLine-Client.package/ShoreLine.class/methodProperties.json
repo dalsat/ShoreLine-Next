@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"default" : "TommasoDalSasso 8/13/2016 03:55",
+		"get:" : "TommasoDalSasso 8/12/2016 15:46",
+		"reportWithID:" : "TommasoDalSasso 8/13/2016 04:07",
+		"reports" : "TommasoDalSasso 8/13/2016 03:55",
+		"reportsWithAuthor:" : "TommasoDalSasso 8/23/2016 00:09",
+		"reportsWithClass:" : "TommasoDalSasso 8/13/2016 04:01",
+		"reportsWithMethod:" : "TommasoDalSasso 8/13/2016 04:01",
+		"reset" : "TommasoDalSasso 8/13/2016 03:55" },
+	"instance" : {
+		"gtSpotterReportFor:" : "TommasoDalSasso 4/12/2016 18:52",
+		"initialize" : "TommasoDalSasso 8/13/2016 03:59",
+		"reportWithID:" : "TommasoDalSasso 8/13/2016 04:17",
+		"reports" : "TommasoDalSasso 8/13/2016 04:04",
+		"reportsWithAuthor:" : "TommasoDalSasso 8/13/2016 04:00",
+		"reportsWithClass:" : "TommasoDalSasso 8/13/2016 04:00",
+		"reportsWithMethod:" : "TommasoDalSasso 8/13/2016 04:02" } }

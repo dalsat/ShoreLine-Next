@@ -1,0 +1,4 @@
+requests
+summary
+
+	^ self get: '/'

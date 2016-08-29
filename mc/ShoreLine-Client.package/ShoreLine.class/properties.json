@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Client-cli",
+	"classinstvars" : [
+		"Default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connector" ],
+	"name" : "ShoreLine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

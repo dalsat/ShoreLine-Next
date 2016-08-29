@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"baseUrl" : "TommasoDalSasso 8/13/2016 03:38",
+		"on:" : "TommasoDalSasso 8/13/2016 03:31",
+		"reports" : "TommasoDalSasso 8/12/2016 19:00",
+		"stacktraces" : "TommasoDalSasso 8/13/2016 03:31" },
+	"instance" : {
+		"accessor:" : "TommasoDalSasso 8/12/2016 18:58",
+		"encode:" : "TommasoDalSasso 8/12/2016 15:30",
+		"get:" : "TommasoDalSasso 1/7/2016 16:34",
+		"get:query:" : "TommasoDalSasso 8/13/2016 04:21",
+		"initialize" : "TommasoDalSasso 8/12/2016 15:29",
+		"list" : "TommasoDalSasso 12/11/2015 00:24",
+		"listWithQuery:" : "TommasoDalSasso 8/13/2016 03:58",
+		"loginWithUser:password:" : "TommasoDalSasso 7/7/2016 01:38",
+		"logout" : "TommasoDalSasso 7/7/2016 01:26",
+		"pagedGet:" : "TommasoDalSasso 1/7/2016 15:45",
+		"pagedGet:query:" : "TommasoDalSasso 8/13/2016 04:11",
+		"summary" : "TommasoDalSasso 12/10/2015 12:09",
+		"url" : "TommasoDalSasso 8/12/2016 18:59",
+		"withID:" : "TommasoDalSasso 8/13/2016 04:15" } }

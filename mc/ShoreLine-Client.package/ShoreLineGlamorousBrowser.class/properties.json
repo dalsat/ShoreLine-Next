@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Client-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"browser" ],
+	"name" : "ShoreLineGlamorousBrowser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

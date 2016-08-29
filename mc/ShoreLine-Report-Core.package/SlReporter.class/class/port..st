@@ -1,4 +1,3 @@
 settings
-port: aString
-
-	port := aString
+port: arg1
+	port := arg1

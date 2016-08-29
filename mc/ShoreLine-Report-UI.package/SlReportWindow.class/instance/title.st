@@ -1,4 +1,4 @@
-protocol
+api
 title
 
-	^ 'Report exception'
+	^ 'New Report'

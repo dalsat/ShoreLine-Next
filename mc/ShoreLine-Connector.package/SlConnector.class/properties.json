@@ -1,0 +1,17 @@
+{
+	"category" : "ShoreLine-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accessor",
+		"client",
+		"encoder",
+		"token" ],
+	"name" : "SlConnector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

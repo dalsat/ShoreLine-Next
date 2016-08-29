@@ -3,8 +3,19 @@ initializeWidgets
 
 	sendButton := self newButton.
 	cancel := self newButton.
-	autoSubmit := self newCheckBox.
 	help := self newImage.
-	stack := self newText beForText; disable; yourself.
+	
+	summary := self newTextInput beForText text: 'Summary'.
+	
+	authorLabel := self newLabel label: 'Author:'.
+	author := self newTextInput text: Author fullName.
+	
+	descriptionLabel := self newLabel label: 'Enter a description of the problem'.
+	description := self newText beForText.
+
+	collectors := self newTree
+		beCheckList;
+		autoMultiSelection: true;
+		displayBlock: [ :eachCollector | eachCollector class description ].
 
 	self initializeControls.

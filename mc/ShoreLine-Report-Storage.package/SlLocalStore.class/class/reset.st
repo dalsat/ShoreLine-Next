@@ -1,4 +1,0 @@
-accessing
-reset
-
-	Instance := nil

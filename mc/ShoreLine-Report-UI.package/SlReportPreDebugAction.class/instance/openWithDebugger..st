@@ -1,4 +1,4 @@
 actions
 openWithDebugger: aDebugger
 	
-	SlNewReportWindow openForDebugger: aDebugger.
+	SlReportWindow openForDebugger: aDebugger.

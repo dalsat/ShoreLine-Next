@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"headerColor" : "TommasoDalSasso 8/18/2016 14:19",
+		"on:" : "TommasoDalSasso 8/17/2016 10:23",
+		"openOn:" : "TommasoDalSasso 8/17/2016 10:22" },
+	"instance" : {
+		"clean" : "TommasoDalSasso 8/17/2016 16:36",
+		"drawEvent:on:" : "TommasoDalSasso 8/18/2016 17:03",
+		"drawEventContents:on:" : "TommasoDalSasso 8/18/2016 16:41",
+		"drawEventMetadata:on:" : "TommasoDalSasso 7/19/2016 23:58",
+		"drawEvents:on:" : "TommasoDalSasso 7/18/2016 18:15",
+		"drawMetadata:on:" : "TommasoDalSasso 8/18/2016 16:36",
+		"drawReport:" : "TommasoDalSasso 8/18/2016 16:47",
+		"drawReport:on:" : "TommasoDalSasso 8/18/2016 16:31",
+		"initialize" : "TommasoDalSasso 8/17/2016 16:35",
+		"withFrameDo:on:" : "TommasoDalSasso 8/18/2016 16:31" } }

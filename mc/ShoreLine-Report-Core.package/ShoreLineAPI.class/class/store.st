@@ -1,4 +1,0 @@
-accessing
-store
-
-	^ SlLocalStore uniqueInstance
