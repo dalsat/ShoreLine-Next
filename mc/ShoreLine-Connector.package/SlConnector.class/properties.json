@@ -1,17 +1,17 @@
 {
-	"category" : "ShoreLine-Connector",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ShoreLine-Connector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"accessor",
 		"client",
 		"encoder",
-		"token" ],
+		"username",
+		"token"
+	],
 	"name" : "SlConnector",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

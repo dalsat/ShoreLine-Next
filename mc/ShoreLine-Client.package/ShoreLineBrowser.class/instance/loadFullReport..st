@@ -1,4 +1,4 @@
 actions
-loadFullReport: aReport
+loadFullReport: aPartialReport
 	
-	^ cache at: aReport id ifAbsentPut: [ ShoreLine reportWithID: aReport id ]
+	^ cache at: aPartialReport id ifAbsentPut: [ ShoreLine reportWithID: aPartialReport id ]

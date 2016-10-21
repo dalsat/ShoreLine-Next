@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-Connector",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SlReportAccessor",
-	"pools" : [
-		 ],
 	"super" : "SlAccessor",
-	"type" : "normal" }
+	"category" : "ShoreLine-Connector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlReportAccessor",
+	"type" : "normal"
+}

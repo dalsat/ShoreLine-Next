@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"logout" : "TommasoDalSasso 9/8/2016 12:03",
+		"username" : "TommasoDalSasso 9/7/2016 23:54",
+		"login" : "TommasoDalSasso 9/8/2016 12:57",
+		"addCommentTo:" : "TommasoDalSasso 9/7/2016 14:00",
+		"composeAnonymousActionsIn:" : "TommasoDalSasso 9/7/2016 23:37",
+		"initialize" : "TommasoDalSasso 9/7/2016 11:36",
+		"composeUserActionsIn:" : "TommasoDalSasso 9/7/2016 23:55",
+		"compose" : "TommasoDalSasso 9/7/2016 13:54",
+		"withFrameDo:on:" : "TommasoDalSasso 9/7/2016 11:30",
+		"composeActions" : "TommasoDalSasso 9/7/2016 13:58",
+		"composeAdminActionsIn:" : "TommasoDalSasso 9/7/2016 23:39",
+		"clean" : "TommasoDalSasso 9/7/2016 11:30",
+		"isLoggedIn" : "TommasoDalSasso 9/7/2016 23:36"
+	},
+	"class" : {
+		"headerColor" : "TommasoDalSasso 9/7/2016 11:30"
+	}
+}

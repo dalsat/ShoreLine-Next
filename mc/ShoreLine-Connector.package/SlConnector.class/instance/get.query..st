@@ -1,8 +1,14 @@
 requests
 get: anUrl query: aDictionary
-	| requestUrl |
+	| requestUrl response |
 	
 	requestUrl := self url / anUrl
 		query: aDictionary asDictionary;
 		yourself.
-	^ accessor materialize: (client get: requestUrl)
+	
+	client get: requestUrl.
+	response := client response.
+	
+	response isSuccess
+		ifTrue: [ ^ accessor materialize: (STON fromString: response contents) ]
+		ifFalse: [ self error: 'error during query' ]

@@ -1,4 +1,4 @@
 *ShoreLine-Client
 color
 
-	^ Color orange lighter
+	^ Color fromHexString: #'BAD8FF' "#FFFAA1"

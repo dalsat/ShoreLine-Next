@@ -1,3 +1,4 @@
 accessing
-path: arg1
-	path := arg1
+path: aString
+
+	path := aString

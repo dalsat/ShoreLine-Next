@@ -1,10 +1,10 @@
 {
-	"category" : "ShoreLine-Report-UI-Widgets",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "ShoreLine-Report-UI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"reporter",
 		"summary",
@@ -15,9 +15,8 @@
 		"help",
 		"author",
 		"authorLabel",
-		"collectors" ],
+		"collectors"
+	],
 	"name" : "SlReportWindow",
-	"pools" : [
-		 ],
-	"super" : "ComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}

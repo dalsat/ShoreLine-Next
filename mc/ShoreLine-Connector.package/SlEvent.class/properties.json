@@ -1,16 +1,13 @@
 {
-	"category" : "ShoreLine-Connector-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "SlObject",
+	"category" : "ShoreLine-Connector-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
-		"author",
-		"description",
-		"date" ],
+		"contents"
+	],
 	"name" : "SlEvent",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

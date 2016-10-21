@@ -1,22 +1,16 @@
 {
-	"class" : {
-		"defaultSpec" : "TommasoDalSasso 6/23/2016 00:25",
-		"open" : "TommasoDalSasso 4/19/2016 11:50" },
 	"instance" : {
-		"clean" : "TommasoDalSasso 4/19/2016 16:12",
-		"cleanButton" : "TommasoDalSasso 4/19/2016 15:56",
-		"details" : "TommasoDalSasso 4/19/2016 11:33",
-		"extent" : "TommasoDalSasso 4/19/2016 15:00",
-		"filter" : "TommasoDalSasso 4/19/2016 14:58",
-		"goButton" : "TommasoDalSasso 4/19/2016 16:00",
-		"initialize" : "TommasoDalSasso 8/17/2016 17:07",
-		"initializePresenter" : "TommasoDalSasso 8/16/2016 16:53",
-		"initializeWidgets" : "TommasoDalSasso 8/18/2016 17:23",
-		"list" : "TommasoDalSasso 4/19/2016 11:33",
-		"loadFullReport:" : "TommasoDalSasso 8/17/2016 15:30",
-		"newBugStreamViewer" : "TommasoDalSasso 8/17/2016 16:35",
-		"openReport:" : "TommasoDalSasso 8/18/2016 16:38",
-		"query:" : "TommasoDalSasso 4/19/2016 16:40",
-		"refresh" : "TommasoDalSasso 8/18/2016 17:19",
-		"refreshButton" : "TommasoDalSasso 4/19/2016 14:58",
-		"title" : "TommasoDalSasso 4/19/2016 16:41" } }
+		"compose" : "TommasoDalSasso 9/7/2016 14:05",
+		"more" : "TommasoDalSasso 9/2/2016 16:58",
+		"initialize" : "TommasoDalSasso 9/2/2016 14:12",
+		"loadFullReport:" : "TommasoDalSasso 9/2/2016 14:22",
+		"refresh" : "TommasoDalSasso 9/2/2016 16:57",
+		"reportsIn:" : "TommasoDalSasso 9/6/2016 23:20",
+		"openOn:" : "TommasoDalSasso 9/2/2016 16:57"
+	},
+	"class" : {
+		"mainMenuItemOn:" : "TommasoDalSasso 9/2/2016 14:01",
+		"open" : "TommasoDalSasso 9/2/2016 13:31",
+		"menuCommandOn:" : "TommasoDalSasso 9/6/2016 23:04"
+	}
+}

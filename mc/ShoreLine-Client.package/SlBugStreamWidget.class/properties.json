@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-Client-Browser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SlBugStreamWidget",
-	"pools" : [
-		 ],
 	"super" : "GLMFoundationBrick",
-	"type" : "normal" }
+	"category" : "ShoreLine-Client-Browser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlBugStreamWidget",
+	"type" : "normal"
+}

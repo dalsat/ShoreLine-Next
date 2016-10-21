@@ -1,17 +1,19 @@
 {
-	"class" : {
-		"beDisabled" : "TommasoDalSasso 4/8/2016 14:48",
-		"beEnabled" : "TommasoDalSasso 4/8/2016 14:48",
-		"collectFor:" : "TommasoDalSasso 8/24/2016 00:25",
-		"collectorsFor:" : "TommasoDalSasso 8/24/2016 00:14",
-		"description" : "TommasoDalSasso 4/8/2016 14:49",
-		"enabled" : "TommasoDalSasso 4/8/2016 14:52",
-		"extractFrom:" : "TommasoDalSasso 4/18/2016 14:41",
-		"tag" : "TommasoDalSasso 4/11/2016 14:49",
-		"when:" : "TommasoDalSasso 8/24/2016 00:14" },
 	"instance" : {
 		"extractFrom:" : "TommasoDalSasso 4/9/2016 15:50",
-		"initializeWith:" : "TommasoDalSasso 4/18/2016 14:41",
 		"submit" : "TommasoDalSasso 4/15/2016 12:09",
 		"submit:" : "TommasoDalSasso 4/15/2016 12:09",
-		"value" : "TommasoDalSasso 4/15/2016 12:53" } }
+		"value" : "TommasoDalSasso 8/31/2016 00:58",
+		"initializeWith:" : "TommasoDalSasso 4/18/2016 14:41"
+	},
+	"class" : {
+		"description" : "TommasoDalSasso 4/8/2016 14:49",
+		"extractFrom:" : "TommasoDalSasso 4/18/2016 14:41",
+		"tag" : "TommasoDalSasso 4/11/2016 14:49",
+		"collectFor:" : "TommasoDalSasso 8/24/2016 00:25",
+		"when:" : "TommasoDalSasso 8/24/2016 00:14",
+		"binary" : "TommasoDalSasso 8/31/2016 00:41",
+		"collectorsFor:" : "TommasoDalSasso 8/31/2016 00:14",
+		"serializeBinary:" : "TommasoDalSasso 8/31/2016 00:58"
+	}
+}

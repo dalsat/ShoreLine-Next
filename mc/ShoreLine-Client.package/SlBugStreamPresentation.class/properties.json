@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GLMCompositePresentation",
+	"category" : "ShoreLine-Client-Browser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlBugStreamPresentation",
+	"type" : "normal"
+}

@@ -1,25 +1,28 @@
 {
-	"class" : {
-		"decode:" : "TommasoDalSasso 12/10/2015 16:18",
-		"get:" : "TommasoDalSasso 12/10/2015 16:30",
-		"on:materializer:" : "TommasoDalSasso 8/12/2016 19:04",
-		"on:until:" : "TommasoDalSasso 8/12/2016 15:12",
-		"on:until:materializer:" : "TommasoDalSasso 8/12/2016 19:06" },
 	"instance" : {
-		"atEnd" : "TommasoDalSasso 12/10/2015 16:32",
-		"atStart" : "TommasoDalSasso 1/17/2016 18:01",
-		"browseTo:" : "TommasoDalSasso 1/17/2016 18:17",
-		"count" : "TommasoDalSasso 8/13/2016 03:45",
 		"data" : "TommasoDalSasso 8/13/2016 03:50",
-		"dataBlock:" : "TommasoDalSasso 12/10/2015 16:05",
-		"fieldAt:" : "TommasoDalSasso 8/13/2016 03:47",
+		"next" : "TommasoDalSasso 1/17/2016 18:18",
+		"atStart" : "TommasoDalSasso 1/17/2016 18:01",
+		"updateUrl:" : "TommasoDalSasso 8/13/2016 03:47",
+		"browseTo:" : "TommasoDalSasso 1/17/2016 18:17",
 		"first" : "TommasoDalSasso 1/17/2016 18:18",
+		"atEnd" : "TommasoDalSasso 12/10/2015 16:32",
+		"response" : "TommasoDalSasso 8/13/2016 03:47",
+		"count" : "TommasoDalSasso 8/13/2016 03:45",
+		"previous" : "TommasoDalSasso 1/17/2016 18:18",
 		"initialize" : "TommasoDalSasso 8/12/2016 18:28",
 		"materializer:" : "TommasoDalSasso 8/12/2016 18:35",
-		"next" : "TommasoDalSasso 1/17/2016 18:18",
-		"previous" : "TommasoDalSasso 1/17/2016 18:18",
-		"response" : "TommasoDalSasso 8/13/2016 03:47",
 		"self" : "TommasoDalSasso 1/17/2016 18:18",
-		"untilDate" : "TommasoDalSasso 12/11/2015 13:36",
+		"fieldAt:" : "TommasoDalSasso 8/13/2016 03:47",
 		"untilDate:" : "TommasoDalSasso 12/11/2015 13:36",
-		"updateUrl:" : "TommasoDalSasso 8/13/2016 03:47" } }
+		"untilDate" : "TommasoDalSasso 12/11/2015 13:36",
+		"dataBlock:" : "TommasoDalSasso 12/10/2015 16:05"
+	},
+	"class" : {
+		"on:until:materializer:" : "TommasoDalSasso 8/12/2016 19:06",
+		"decode:" : "TommasoDalSasso 12/10/2015 16:18",
+		"on:until:" : "TommasoDalSasso 8/12/2016 15:12",
+		"on:materializer:" : "TommasoDalSasso 8/12/2016 19:04",
+		"get:" : "TommasoDalSasso 12/10/2015 16:30"
+	}
+}

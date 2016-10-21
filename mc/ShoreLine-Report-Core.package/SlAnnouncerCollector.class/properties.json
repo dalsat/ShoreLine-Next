@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SlCollector",
+	"category" : "ShoreLine-Report-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlAnnouncerCollector",
+	"type" : "normal"
+}

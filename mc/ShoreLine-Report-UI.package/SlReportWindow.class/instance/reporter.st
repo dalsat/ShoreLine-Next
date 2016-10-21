@@ -1,4 +1,4 @@
 accessing
 reporter
 
-	^ reporter ifNil: [ reporter := self class reporterClass default ]
+	^ reporter ifNil: [ reporter := self class reporterClass new ]

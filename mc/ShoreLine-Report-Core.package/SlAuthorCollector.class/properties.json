@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-Report-Core-Collectors",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"author" ],
-	"name" : "SlAuthorCollector",
-	"pools" : [
-		 ],
 	"super" : "SlCollector",
-	"type" : "normal" }
+	"category" : "ShoreLine-Report-Core-Collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlAuthorCollector",
+	"type" : "normal"
+}

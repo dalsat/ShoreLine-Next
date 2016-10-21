@@ -1,4 +1,5 @@
-as yet unclassified
-reportsWithClass: aClassName
+queries
+reportsWithClass: aClass
 
-	^ connector listWithQuery: { #class -> aClassName }
+	"^ connector listWithQuery: { #class -> aClassName }"
+	^ connector pagedGet: '/class/', aClass asString

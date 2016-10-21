@@ -1,4 +1,4 @@
-as yet unclassified
+queries
 reportsWithAuthor: aUserName
 
 	^ connector listWithQuery: { #author -> aUserName }

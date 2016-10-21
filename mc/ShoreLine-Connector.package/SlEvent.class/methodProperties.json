@@ -1,10 +1,11 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"author" : "TommasoDalSasso 6/24/2016 17:45",
-		"author:" : "TommasoDalSasso 6/24/2016 17:45",
-		"date" : "TommasoDalSasso 6/24/2016 17:45",
-		"date:" : "TommasoDalSasso 6/24/2016 17:45",
-		"description" : "TommasoDalSasso 6/24/2016 17:45",
-		"description:" : "TommasoDalSasso 6/24/2016 17:45" } }
+		"contents" : "TommasoDalSasso 9/2/2016 10:36",
+		"contents:" : "TommasoDalSasso 9/2/2016 10:37",
+		"printOn:" : "TommasoDalSasso 9/2/2016 14:38"
+	},
+	"class" : {
+		"appliesTo:" : "TommasoDalSasso 9/2/2016 10:45",
+		"from:" : "TommasoDalSasso 9/2/2016 10:39"
+	}
+}

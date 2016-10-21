@@ -1,17 +1,16 @@
 {
-	"category" : "ShoreLine-Connector",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ShoreLine-Connector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"response",
 		"untilDate",
 		"dataBlock",
-		"materializer" ],
+		"materializer"
+	],
 	"name" : "SlPager",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

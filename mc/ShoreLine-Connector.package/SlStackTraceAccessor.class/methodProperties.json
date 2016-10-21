@@ -1,6 +1,7 @@
 {
+	"instance" : { },
 	"class" : {
 		"dataSelector" : "TommasoDalSasso 8/13/2016 03:45",
-		"path" : "TommasoDalSasso 8/12/2016 19:00" },
-	"instance" : {
-		 } }
+		"path" : "TommasoDalSasso 8/12/2016 19:00"
+	}
+}

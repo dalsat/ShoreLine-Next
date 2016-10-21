@@ -1,4 +1,4 @@
-private
+as yet unclassified
 materialize: aDictionary
 
-	^ self subclassResponsibility
+	^ (SlObject classFor: aDictionary) from: aDictionary

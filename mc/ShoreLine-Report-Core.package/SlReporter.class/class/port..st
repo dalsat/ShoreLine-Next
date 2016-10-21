@@ -1,3 +1,4 @@
 settings
-port: arg1
-	port := arg1
+port: anInteger
+
+	port := anInteger

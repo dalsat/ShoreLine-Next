@@ -1,6 +1,9 @@
 {
+	"instance" : {
+		"extractFrom:" : "TommasoDalSasso 4/15/2016 12:55"
+	},
 	"class" : {
 		"description" : "TommasoDalSasso 4/11/2016 14:58",
-		"tag" : "TommasoDalSasso 4/11/2016 14:58" },
-	"instance" : {
-		"extractFrom:" : "TommasoDalSasso 4/15/2016 12:55" } }
+		"tag" : "TommasoDalSasso 4/11/2016 14:58"
+	}
+}

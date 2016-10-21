@@ -1,20 +1,14 @@
 {
-	"category" : "ShoreLine-Client-Browser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "GLMCompositePresentation",
+	"category" : "ShoreLine-Client-Browser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
-		"list",
-		"details",
-		"goButton",
-		"refreshButton",
-		"cleanButton",
-		"filter",
-		"cache" ],
+		"pager",
+		"cache"
+	],
 	"name" : "ShoreLineBrowser",
-	"pools" : [
-		 ],
-	"super" : "ComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}

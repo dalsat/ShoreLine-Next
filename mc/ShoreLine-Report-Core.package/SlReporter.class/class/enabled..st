@@ -1,3 +1,4 @@
 settings
-enabled: arg1
-	enabled := arg1
+enabled: aBoolean
+
+	enabled := aBoolean

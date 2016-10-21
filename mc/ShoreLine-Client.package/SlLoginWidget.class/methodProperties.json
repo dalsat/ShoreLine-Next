@@ -1,28 +1,31 @@
 {
+	"instance" : {
+		"passwordField" : "TommasoDalSasso 6/20/2016 14:35",
+		"initialize" : "TommasoDalSasso 6/20/2016 18:37",
+		"connector" : "TommasoDalSasso 7/7/2016 01:42",
+		"helpButton" : "TommasoDalSasso 6/20/2016 14:35",
+		"changeLogin" : "TommasoDalSasso 6/20/2016 18:40",
+		"usernameLabel" : "TommasoDalSasso 6/20/2016 14:50",
+		"usernameField" : "TommasoDalSasso 6/20/2016 14:35",
+		"saveButton" : "TommasoDalSasso 6/20/2016 23:58",
+		"initializePresenter" : "TommasoDalSasso 6/21/2016 00:08",
+		"changeUser" : "TommasoDalSasso 6/21/2016 00:23",
+		"submitButton" : "TommasoDalSasso 6/20/2016 14:35",
+		"connector:" : "TommasoDalSasso 7/7/2016 01:42",
+		"change" : "TommasoDalSasso 6/20/2016 18:38",
+		"loginButton" : "TommasoDalSasso 6/20/2016 14:35",
+		"login:" : "TommasoDalSasso 7/7/2016 01:48",
+		"logout" : "TommasoDalSasso 6/21/2016 00:28",
+		"showHelp" : "TommasoDalSasso 6/20/2016 18:31",
+		"initializeWidgets" : "TommasoDalSasso 6/21/2016 00:29",
+		"loginAction" : "TommasoDalSasso 6/21/2016 00:39"
+	},
 	"class" : {
+		"popupText" : "TommasoDalSasso 6/20/2016 18:32",
 		"height" : "TommasoDalSasso 6/19/2016 16:40",
 		"helpText" : "TommasoDalSasso 6/20/2016 18:29",
 		"loginLayout" : "TommasoDalSasso 6/20/2016 18:47",
-		"popupText" : "TommasoDalSasso 6/20/2016 18:32",
 		"userLayout" : "TommasoDalSasso 6/21/2016 00:01",
-		"withConnector:" : "TommasoDalSasso 7/7/2016 01:42" },
-	"instance" : {
-		"change" : "TommasoDalSasso 6/20/2016 18:38",
-		"changeLogin" : "TommasoDalSasso 6/20/2016 18:40",
-		"changeUser" : "TommasoDalSasso 6/21/2016 00:23",
-		"connector" : "TommasoDalSasso 7/7/2016 01:42",
-		"connector:" : "TommasoDalSasso 7/7/2016 01:42",
-		"helpButton" : "TommasoDalSasso 6/20/2016 14:35",
-		"initialize" : "TommasoDalSasso 6/20/2016 18:37",
-		"initializePresenter" : "TommasoDalSasso 6/21/2016 00:08",
-		"initializeWidgets" : "TommasoDalSasso 6/21/2016 00:29",
-		"login:" : "TommasoDalSasso 7/7/2016 01:48",
-		"loginAction" : "TommasoDalSasso 6/21/2016 00:39",
-		"loginButton" : "TommasoDalSasso 6/20/2016 14:35",
-		"logout" : "TommasoDalSasso 6/21/2016 00:28",
-		"passwordField" : "TommasoDalSasso 6/20/2016 14:35",
-		"saveButton" : "TommasoDalSasso 6/20/2016 23:58",
-		"showHelp" : "TommasoDalSasso 6/20/2016 18:31",
-		"submitButton" : "TommasoDalSasso 6/20/2016 14:35",
-		"usernameField" : "TommasoDalSasso 6/20/2016 14:35",
-		"usernameLabel" : "TommasoDalSasso 6/20/2016 14:50" } }
+		"withConnector:" : "TommasoDalSasso 7/7/2016 01:42"
+	}
+}

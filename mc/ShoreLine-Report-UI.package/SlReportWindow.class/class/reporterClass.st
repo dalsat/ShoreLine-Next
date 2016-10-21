@@ -1,5 +1,4 @@
 accessing
 reporterClass
 
-	^ "SlLocalReporter"
-	SlReporter
+	^ SlReporter

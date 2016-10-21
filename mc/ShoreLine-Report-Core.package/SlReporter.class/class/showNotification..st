@@ -1,3 +1,4 @@
 settings
-showNotification: arg1
-	showNotification := arg1
+showNotification: aBoolean
+
+	showNotification := aBoolean

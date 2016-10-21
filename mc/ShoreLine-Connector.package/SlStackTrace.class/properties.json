@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SlObject",
+	"category" : "ShoreLine-Connector-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlStackTrace",
+	"type" : "normal"
+}

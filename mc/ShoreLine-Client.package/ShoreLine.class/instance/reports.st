@@ -1,4 +1,4 @@
-as yet unclassified
+queries
 reports
 
 	^ connector list

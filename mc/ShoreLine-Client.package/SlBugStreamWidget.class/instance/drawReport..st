@@ -1,5 +1,11 @@
 as yet unclassified
 drawReport: aReport
-
+	| brick |
+	
+	self scrollToTop.
 	self clean.
-	^ self drawReport: aReport on: self brickRoot
+	brick := self brickRoot addBrickBack: aReport.
+	
+	"brickRoot vSpaceFill."
+	"brickRoot vShrinkWrap."
+	^ brick

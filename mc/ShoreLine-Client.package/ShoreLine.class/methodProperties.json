@@ -1,18 +1,25 @@
 {
-	"class" : {
-		"default" : "TommasoDalSasso 8/13/2016 03:55",
-		"get:" : "TommasoDalSasso 8/12/2016 15:46",
-		"reportWithID:" : "TommasoDalSasso 8/13/2016 04:07",
-		"reports" : "TommasoDalSasso 8/13/2016 03:55",
-		"reportsWithAuthor:" : "TommasoDalSasso 8/23/2016 00:09",
-		"reportsWithClass:" : "TommasoDalSasso 8/13/2016 04:01",
-		"reportsWithMethod:" : "TommasoDalSasso 8/13/2016 04:01",
-		"reset" : "TommasoDalSasso 8/13/2016 03:55" },
 	"instance" : {
-		"gtSpotterReportFor:" : "TommasoDalSasso 4/12/2016 18:52",
-		"initialize" : "TommasoDalSasso 8/13/2016 03:59",
-		"reportWithID:" : "TommasoDalSasso 8/13/2016 04:17",
-		"reports" : "TommasoDalSasso 8/13/2016 04:04",
+		"isLoggedIn" : "TommasoDalSasso 9/7/2016 16:11",
 		"reportsWithAuthor:" : "TommasoDalSasso 8/13/2016 04:00",
-		"reportsWithClass:" : "TommasoDalSasso 8/13/2016 04:00",
-		"reportsWithMethod:" : "TommasoDalSasso 8/13/2016 04:02" } }
+		"username" : "TommasoDalSasso 9/7/2016 23:50",
+		"reportsWithClass:" : "TommasoDalSasso 8/30/2016 11:59",
+		"loginWithUser:password:" : "TommasoDalSasso 9/7/2016 16:06",
+		"addComment:to:" : "TommasoDalSasso 9/1/2016 00:57",
+		"reportWithID:" : "TommasoDalSasso 8/13/2016 04:17",
+		"reportsWithMethod:" : "TommasoDalSasso 8/13/2016 04:02",
+		"initialize" : "TommasoDalSasso 8/13/2016 03:59",
+		"reports" : "TommasoDalSasso 8/13/2016 04:04",
+		"logout" : "TommasoDalSasso 9/7/2016 23:56"
+	},
+	"class" : {
+		"reportsWithAuthor:" : "TommasoDalSasso 8/23/2016 00:09",
+		"default" : "TommasoDalSasso 8/13/2016 03:55",
+		"reportsWithMethod:" : "TommasoDalSasso 8/13/2016 04:01",
+		"reportWithID:" : "TommasoDalSasso 8/13/2016 04:07",
+		"reset" : "TommasoDalSasso 9/1/2016 16:51",
+		"reports" : "TommasoDalSasso 8/13/2016 03:55",
+		"reportsWithClass:" : "TommasoDalSasso 8/13/2016 04:01",
+		"get:" : "TommasoDalSasso 8/12/2016 15:46"
+	}
+}

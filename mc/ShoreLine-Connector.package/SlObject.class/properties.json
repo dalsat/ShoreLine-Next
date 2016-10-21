@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ShoreLine-Connector-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"author",
+		"date",
+		"links"
+	],
+	"name" : "SlObject",
+	"type" : "normal"
+}

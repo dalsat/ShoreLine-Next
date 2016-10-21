@@ -2,7 +2,8 @@
 spotterPreviewIn: aComposite
 	<spotterPreview: 10>
 
-	aComposite text
+	aComposite custom: SlBugStreamPresentation new
+	"aComposite text
 		title: 'Report';
-		display: [ :anElement | "self summary" 5 ];
-		entity: self
+		display: [ :anElement | self summary ];
+		entity: self"

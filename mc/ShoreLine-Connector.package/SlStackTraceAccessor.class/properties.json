@@ -1,14 +1,11 @@
 {
-	"category" : "ShoreLine-Connector",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SlStackTraceAccessor",
-	"pools" : [
-		 ],
 	"super" : "SlAccessor",
-	"type" : "normal" }
+	"category" : "ShoreLine-Connector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlStackTraceAccessor",
+	"type" : "normal"
+}

@@ -1,4 +1,4 @@
 accessing
 description
 
-	^ 'Include stack trace'
+	^ 'Include a text stack trace'

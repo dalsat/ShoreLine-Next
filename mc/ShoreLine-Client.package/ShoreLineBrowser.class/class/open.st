@@ -1,4 +1,5 @@
-instance creation
+as yet unclassified
 open
-
-	self new openWithSpec
+	<script>
+	
+	self openOn: ShoreLine reports

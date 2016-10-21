@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GLMCompositePresentation",
+	"category" : "ShoreLine-Report-UI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlGlamourReportWindow",
+	"type" : "normal"
+}

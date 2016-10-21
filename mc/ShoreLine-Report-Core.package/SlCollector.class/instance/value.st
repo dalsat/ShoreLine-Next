@@ -1,4 +1,6 @@
 evaluating
 value
 
-	^ payload
+	^ self class binary
+		ifTrue: [ self class serializeBinary: payload ]
+		ifFalse: payload

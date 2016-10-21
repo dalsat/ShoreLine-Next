@@ -1,15 +1,14 @@
 {
-	"category" : "ShoreLine-Report-Core-Collectors",
-	"classinstvars" : [
-		"Enabled" ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ShoreLine-Report-Core-Collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"payload",
-		"submit" ],
+		"submit"
+	],
 	"name" : "SlCollector",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

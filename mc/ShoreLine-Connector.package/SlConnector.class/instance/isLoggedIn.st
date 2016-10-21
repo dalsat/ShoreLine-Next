@@ -1,0 +1,4 @@
+authentication
+isLoggedIn
+
+	^ token isNotNil

@@ -1,4 +1,4 @@
-as yet unclassified
+queries
 reportWithID: id
 
 	^ connector withID: id

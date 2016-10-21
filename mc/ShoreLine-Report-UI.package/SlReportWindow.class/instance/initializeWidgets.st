@@ -16,6 +16,9 @@ initializeWidgets
 	collectors := self newTree
 		beCheckList;
 		autoMultiSelection: true;
+		"iconBlock: [ :collector :node | Smalltalk ui icons iconNamed: #comments ];"
+		"whenHighlightedItemChanged: [ :collector | collector inspect ];"
+		"doubleClick: [ :collector | collector inspect ];"
 		displayBlock: [ :eachCollector | eachCollector class description ].
 
 	self initializeControls.

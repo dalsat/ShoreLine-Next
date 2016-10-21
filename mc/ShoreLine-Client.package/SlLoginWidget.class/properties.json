@@ -1,10 +1,10 @@
 {
-	"category" : "ShoreLine-Client-Browser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "DynamicComposableModel",
+	"category" : "ShoreLine-Client-Browser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"connector",
 		"showLogin",
@@ -15,9 +15,8 @@
 		"usernameField",
 		"passwordField",
 		"submitButton",
-		"helpButton" ],
+		"helpButton"
+	],
 	"name" : "SlLoginWidget",
-	"pools" : [
-		 ],
-	"super" : "DynamicComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}
