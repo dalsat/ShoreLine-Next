@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TommasoDalSasso 3/6/2014 09:55",
+	"super" : "Object",
+	"category" : "ShoreLine-Report-Core-Collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"debugger"
+	],
+	"name" : "SlReportExtractor",
+	"type" : "normal"
+}

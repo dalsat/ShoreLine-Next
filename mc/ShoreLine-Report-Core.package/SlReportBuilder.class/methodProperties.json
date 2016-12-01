@@ -6,13 +6,13 @@
 		"buildFrom:" : "TommasoDalSasso 8/30/2016 17:13",
 		"asDictionary" : "TommasoDalSasso 8/30/2016 17:14",
 		"metadata" : "TommasoDalSasso 8/30/2016 17:17",
-		"summaryFor:" : "TommasoDalSasso 8/30/2016 17:11",
+		"summaryFor:" : "TommasoDalSasso 10/25/2016 17:09",
 		"payloads" : "TommasoDalSasso 8/30/2016 17:17",
 		"payloadsFrom:" : "TommasoDalSasso 8/30/2016 17:10"
 	},
 	"class" : {
-		"reportForDebugger:" : "TommasoDalSasso 8/30/2016 17:02",
-		"collectFrom:" : "TommasoDalSasso 4/12/2016 18:04",
-		"summaryFor:" : "TommasoDalSasso 4/15/2016 11:33"
+		"reportForContext:" : "TommasoDalSasso 10/25/2016 11:07",
+		"collectFrom:" : "TommasoDalSasso 11/16/2016 17:24",
+		"summaryFor:" : "TommasoDalSasso 10/26/2016 14:02"
 	}
 }

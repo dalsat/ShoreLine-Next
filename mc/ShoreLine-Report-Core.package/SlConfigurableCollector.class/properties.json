@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "BeaconSignal",
+	"category" : "ShoreLine-Report-Core-Collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tag",
+		"description",
+		"extractBlock",
+		"whenBlock",
+		"result"
+	],
+	"name" : "SlConfigurableCollector",
+	"type" : "normal"
+}

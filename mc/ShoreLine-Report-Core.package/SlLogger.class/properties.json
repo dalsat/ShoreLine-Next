@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SerializingLogger",
+	"category" : "ShoreLine-Report-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlLogger",
+	"type" : "normal"
+}

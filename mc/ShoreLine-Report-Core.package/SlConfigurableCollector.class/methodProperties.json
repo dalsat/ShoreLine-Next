@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"tag" : "TommasoDalSasso 11/16/2016 17:22",
+		"description" : "TommasoDalSasso 11/16/2016 17:22",
+		"whenBlock" : "TommasoDalSasso 11/16/2016 17:22",
+		"tag:" : "TommasoDalSasso 11/16/2016 17:22",
+		"when:" : "TommasoDalSasso 11/16/2016 17:11",
+		"whenBlock:" : "TommasoDalSasso 11/16/2016 17:08",
+		"initializeFrom:" : "TommasoDalSasso 11/17/2016 16:47",
+		"extractBlock:" : "TommasoDalSasso 11/16/2016 17:09",
+		"collect:" : "TommasoDalSasso 11/16/2016 17:11",
+		"description:" : "TommasoDalSasso 11/16/2016 17:22"
+	},
+	"class" : {
+		"traceCollector:" : "TommasoDalSasso 11/17/2016 16:43",
+		"basicCollectorsIn:" : "TommasoDalSasso 11/17/2016 16:43",
+		"stringCollector:" : "TommasoDalSasso 11/17/2016 16:43"
+	}
+}

@@ -1,4 +1,4 @@
 as yet unclassified
-when: aDebugger
+when: aContext
 
-	^ aDebugger session context receiver isKindOf: String
+	^ aContext receiver isKindOf: String

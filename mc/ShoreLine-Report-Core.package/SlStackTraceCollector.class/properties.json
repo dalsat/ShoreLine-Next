@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "SlCollector",
+	"super" : "SlDataCollector",
 	"category" : "ShoreLine-Report-Core-Collectors",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"stack"
+	],
 	"name" : "SlStackTraceCollector",
 	"type" : "normal"
 }

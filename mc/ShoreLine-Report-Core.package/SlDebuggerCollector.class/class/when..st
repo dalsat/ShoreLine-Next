@@ -1,0 +1,4 @@
+scripting
+when: aDebugger
+
+	^ true

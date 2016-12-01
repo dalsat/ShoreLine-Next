@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"initializeFromContext:" : "TommasoDalSasso 11/17/2016 17:13",
+		"initializeFromDebugger:" : "TommasoDalSasso 11/17/2016 17:12",
+		"collectorsFor:" : "TommasoDalSasso 11/17/2016 16:44"
+	},
+	"class" : {
+		"emit" : "TommasoDalSasso 11/17/2016 17:10",
+		"emit:" : "TommasoDalSasso 11/17/2016 17:13",
+		"emitForDebugger:" : "TommasoDalSasso 11/17/2016 16:53",
+		"emitForContext:" : "TommasoDalSasso 11/17/2016 17:13"
+	}
+}

@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "SlCollector",
-	"category" : "ShoreLine-Report-Core",
+	"super" : "SlDebuggerCollector",
+	"category" : "ShoreLine-Report-Core-Collectors",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"subscribers"
+	],
 	"name" : "SlAnnouncerCollector",
 	"type" : "normal"
 }

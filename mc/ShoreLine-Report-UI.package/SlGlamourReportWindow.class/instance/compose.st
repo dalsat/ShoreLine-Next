@@ -16,4 +16,4 @@ compose
 		browser transmit
 			to: #collectors;
 			andShow: [ :a | a list
-				display: [ :debugger | SlCollector collectorsFor: debugger ] ] ]
+				display: [ :debugger | SlDataCollector collectorsFor: debugger ] ] ]

@@ -1,7 +1,7 @@
 private
-summaryFor: aDebugger
-
+summaryFor: aContext
+aContext inspect.
 	^ String streamContents: [ :s | s
-		<< aDebugger session name
+		<< aContext printString "name"
 		<< ' during '
-		<< aDebugger session stack first asString ]
+		<< aContext stack first asString ]

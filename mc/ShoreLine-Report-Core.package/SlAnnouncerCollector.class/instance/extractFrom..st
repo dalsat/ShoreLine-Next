@@ -1,5 +1,5 @@
 protected
-extractFrom: aDebugger
+extractFrom: aContext
 
-	^ { #subscribers -> (aDebugger session context receiver
+	^ { #subscribers -> (aContext receiver
 		subscriptions subscriptions collect: [ :e | e subscriber asString ]) }.

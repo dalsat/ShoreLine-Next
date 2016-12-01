@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SlConfigurableCollector",
+	"category" : "ShoreLine-Report-Core-Collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"formatBlock"
+	],
+	"name" : "SlListCollector",
+	"type" : "normal"
+}

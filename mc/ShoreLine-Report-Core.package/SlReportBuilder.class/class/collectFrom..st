@@ -1,4 +1,4 @@
 private
-collectFrom: aDebugger
+collectFrom: aContext
 
-	^ SlCollector collectFor: aDebugger
+	^ SlDataCollector collectFor: aContext

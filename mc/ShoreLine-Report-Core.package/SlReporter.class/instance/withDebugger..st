@@ -1,4 +1,4 @@
 instance creation
 withDebugger: aDebugger
 
-	report := SlReportBuilder reportForDebugger: aDebugger
+	report := SlReportBuilder reportForContext: aDebugger context

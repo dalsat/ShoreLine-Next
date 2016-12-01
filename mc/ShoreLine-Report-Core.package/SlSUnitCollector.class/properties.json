@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SlDebuggerCollector",
+	"category" : "ShoreLine-Report-Core-Collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"methodSelector"
+	],
+	"name" : "SlSUnitCollector",
+	"type" : "normal"
+}

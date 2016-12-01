@@ -1,4 +1,3 @@
-as yet unclassified
+scripting
 when: aDebugger
-
-	^ aDebugger session context receiver isKindOf: Announcer
+	^ aDebugger class = ACGlamourDebugger  

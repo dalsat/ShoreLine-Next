@@ -1,4 +1,4 @@
 private
-summaryFor: aDebugger
+summaryFor: aContext
 
-	metadata at: #summary put: (self class summaryFor: aDebugger)
+	metadata at: #summary put: (self class summaryFor: aContext)

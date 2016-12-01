@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BeaconSignal",
+	"category" : "ShoreLine-Report-Core-Collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlDataCollector",
+	"type" : "normal"
+}

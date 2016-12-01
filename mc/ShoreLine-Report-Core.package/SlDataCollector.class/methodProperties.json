@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"initializeFrom:" : "TommasoDalSasso 11/17/2016 11:39"
+	},
+	"class" : {
+		"taggedValueFor:" : "TommasoDalSasso 11/16/2016 18:57",
+		"collectorsFor:" : "TommasoDalSasso 11/16/2016 19:22",
+		"collectorsForSignal:" : "TommasoDalSasso 11/16/2016 18:52",
+		"emit:" : "TommasoDalSasso 11/17/2016 16:01",
+		"collectFor:" : "TommasoDalSasso 11/16/2016 18:57",
+		"emit" : "TommasoDalSasso 11/17/2016 11:49",
+		"when:" : "TommasoDalSasso 8/24/2016 00:14",
+		"initializeFrom:" : "TommasoDalSasso 11/17/2016 15:11",
+		"collectForSignal:" : "TommasoDalSasso 11/16/2016 18:53",
+		"extractFrom:" : "TommasoDalSasso 10/26/2016 11:25"
+	}
+}
