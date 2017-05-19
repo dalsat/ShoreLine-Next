@@ -1,4 +1,4 @@
-as yet unclassified
+building
 compose
 
 	self title: 'New Report'.
@@ -16,4 +16,4 @@ compose
 		browser transmit
 			to: #collectors;
 			andShow: [ :a | a list
-				display: [ :debugger | SlDataCollector collectorsFor: debugger ] ] ]
+				display: [ :report | report collectors collect: [ :e | e description ]"SlDataCollector collectorsFor: debugger" ] ] ]

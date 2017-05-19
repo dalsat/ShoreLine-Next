@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "SerializingLogger",
-	"category" : "ShoreLine-Report-Core",
+	"category" : "ShoreLine-Report-Core-Loggers",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

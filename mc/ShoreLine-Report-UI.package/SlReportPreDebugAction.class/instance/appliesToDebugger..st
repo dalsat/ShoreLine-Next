@@ -1,4 +1,4 @@
 testing
 appliesToDebugger: aDebugger
 
-	^ (self showWithDebugger: aDebugger) and: [ super appliesToDebugger: aDebugger ]
+	^ SlLogger instance isRunning

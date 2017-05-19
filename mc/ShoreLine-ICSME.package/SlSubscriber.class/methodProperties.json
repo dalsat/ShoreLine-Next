@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"defaultHandlerBlock" : "TommasoDalSasso 3/27/2017 16:10",
+		"printOn:" : "TommasoDalSasso 3/27/2017 16:01",
+		"initialize" : "TommasoDalSasso 3/27/2017 16:11",
+		"uid:" : "TommasoDalSasso 3/27/2017 15:57",
+		"handleAnnouncement:" : "TommasoDalSasso 3/27/2017 16:11",
+		"uid" : "TommasoDalSasso 3/27/2017 15:57",
+		"handlerBlock:" : "TommasoDalSasso 3/27/2017 16:10"
+	},
+	"class" : {
+		"broadcast" : "TommasoDalSasso 3/28/2017 15:11",
+		"announcer" : "TommasoDalSasso 3/27/2017 15:58",
+		"new" : "TommasoDalSasso 3/27/2017 15:58",
+		"register:" : "TommasoDalSasso 3/27/2017 16:16",
+		"registerDefect" : "TommasoDalSasso 3/28/2017 15:24",
+		"reset" : "TommasoDalSasso 3/27/2017 16:14",
+		"nextUID" : "TommasoDalSasso 3/27/2017 15:58",
+		"register" : "TommasoDalSasso 3/27/2017 16:16"
+	}
+}

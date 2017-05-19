@@ -7,7 +7,7 @@ baseline: spec
 		spec
 			package: 'ShoreLine-Report-Core';
 			package: 'ShoreLine-Report-Settings';
-			package: 'ShoreLine-Report-UI';
+			package: 'ShoreLine-Report-UI' with: 'ShoreLine-Report-Core';
 			package: 'ShoreLine-Report-Extensions' with: [ spec requires: #('ShoreLine-Connector' 'ShoreLine-Client') ];
 			package: 'ShoreLine-Connector';
 			package: 'ShoreLine-Client' with: [ spec requires: 'ShoreLine-Connector' ].

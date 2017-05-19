@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ShoreLine-ICSME",
+	"classinstvars" : [
+		"announcer",
+		"uidCounter"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"uid",
+		"handlerBlock"
+	],
+	"name" : "SlSubscriber",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "SlDataCollector",
+	"category" : "ShoreLine-ICSME",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"subscribers",
+		"interestedSubscribers",
+		"index",
+		"announcement"
+	],
+	"name" : "SlImageCollector",
+	"type" : "normal"
+}

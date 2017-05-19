@@ -1,5 +1,5 @@
 actions
 executeAction
 
-	"self open."
-	self emit
+	"self debugger inspect."
+	SlReportCollector emit: self debugger session context

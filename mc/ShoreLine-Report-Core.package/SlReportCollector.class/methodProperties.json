@@ -1,8 +1,10 @@
 {
 	"instance" : {
-		"initializeFromContext:" : "TommasoDalSasso 11/17/2016 17:13",
+		"initializeFromContext:" : "TommasoDalSasso 4/5/2017 15:08",
+		"collectors" : "TommasoDalSasso 12/2/2016 16:29",
 		"initializeFromDebugger:" : "TommasoDalSasso 11/17/2016 17:12",
-		"collectorsFor:" : "TommasoDalSasso 11/17/2016 16:44"
+		"collectorsFor:" : "TommasoDalSasso 11/17/2016 16:44",
+		"gtCollectorsIn:" : "TommasoDalSasso 3/28/2017 12:50"
 	},
 	"class" : {
 		"emit" : "TommasoDalSasso 11/17/2016 17:10",

@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"enabled"
-	],
+	"instvars" : [ ],
 	"name" : "SlReportPreDebugAction",
 	"type" : "normal"
 }

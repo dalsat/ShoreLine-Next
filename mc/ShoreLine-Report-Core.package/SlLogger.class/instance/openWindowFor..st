@@ -1,5 +1,5 @@
-as yet unclassified
+actions
 openWindowFor: aSignal
 
 	"aSignal inspect."
-	SlReportWindow openForContext: aSignal context
+	SlReportWindow openFor: aSignal
